@@ -1,12 +1,15 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Rashini+Hirunika;Full-Stack+Developer+@+Zyro+Tech;Building+Scalable+Web+%26+Mobile+Solutions+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=680&lines=Hi+👋,+I'm+Rashini+Hirunika;Full-Stack+Developer+@+Zyro+Tech;Building+Scalable+Web+%26+Mobile+Solutions+🚀" alt="Typing SVG" />
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Status-Coding%20&%20Building-00F0FF?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-FF007F?style=for-the-badge&logo=react&logoColor=white" alt="Role" />
+  <img src="https://img.shields.io/badge/Location-Sri%20Lanka-F7DF1E?style=for-the-badge&logo=icloud&logoColor=white" alt="Location" />
+</p>
+
+<p align="center">
   <a href="https://github.com/rashini-hirunika"><img src="https://komarev.com/ghpvc/?username=rashini-hirunika&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" /></a>
-  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DEVELOPER-00F0FF?style=flat-square&logo=git&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/ROLE-FULLSTACK-FF007F?style=flat-square&logo=react&logoColor=white" alt="Role" />
 </p>
 
 ---
@@ -37,19 +40,17 @@
 
 ---
 
-
-
 ### 🌐 Professional Connections
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rashini-hirunika-it1234/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/rashini-hirunika" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=50&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
