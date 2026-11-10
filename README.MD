@@ -37,17 +37,7 @@
 
 ---
 
-### 📊 GitHub Metrics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashini-hirunika&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rashini's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashini-hirunika&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ### 🌐 Professional Connections
 
